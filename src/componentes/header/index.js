@@ -1,4 +1,3 @@
-import './estilo.css';
 import Logo from '../logo';
 import OpcoesHeader from '../opcoes-header';
 import IconesHeader from '../icones-header';
